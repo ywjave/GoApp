@@ -1,0 +1,8 @@
+./tmp
+./templates
+./static
+./go.mod
+./go.sum
+./conf/*
+./web_app.log
+./.*
