@@ -1,2 +1,0 @@
-{"level":"DEBUG","time":"2024-02-19T12:55:25.866+0800","caller":"GoApp/main.go:46","msg":"logger init success..."}
-{"level":"ERROR","time":"2024-02-19T12:55:28.159+0800","caller":"mysql/mysql.go:27","msg":"connect DB failed, err:%v\n","error":"dial tcp: lookup mysql8034: no such host"}
